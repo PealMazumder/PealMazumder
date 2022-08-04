@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 <br>
 <div align="center">
 <p align="center">Let's connect!</p>
-<a href="https://twitter.com/PealMazumder1">
+<!-- <a href="https://twitter.com/PealMazumder1">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
+</a> -->
 
-<a href="https://www.instagram.com/peal_mazumder/">
+<!-- <a href="https://www.instagram.com/peal_mazumder/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+</a> -->
 
 <a href="https://www.linkedin.com/in/peal-mazumder-364595158/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <br>
 
 <br>
-# My Stats On Competitive Programming
+🏆 My Stats On Competitive Programming
 
 
 | OJ | Username | Solve Count |
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 <p align="center">🛠 Tools & Technology</p>
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-000066?style=for-the-badge&logo=dart&logoColor=white" />
 <!-- <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" /> -->
 <!-- <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /> -->
 <img src="https://img.shields.io/badge/C++-02569B?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
