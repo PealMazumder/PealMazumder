@@ -62,8 +62,8 @@ Here are some ideas to get you started:
 <div align="center">
 <p align="center">🛠 Tools & Technology</p>
 
-<img src="https://img.shields.io/badge/Kotlin-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-000066?style=for-the-badge&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Kotlin-02569B?style=for-the-badge&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-000066?style=for-the-badge&logo=dart&logoColor=white" />
 <!-- <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" /> -->
 <!-- <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /> -->
 <img src="https://img.shields.io/badge/C++-02569B?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
