@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hey there, I'm  Peal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
-🔭 I’m currently working on Brain Station 23 as a Associate Software Engineer
+🔭 I’m currently working on MeldCX as an Android Developer
 <br>
 <div align="center">
 <p align="center">Let's connect!</p>
