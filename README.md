@@ -37,6 +37,7 @@
 
 <br>
 🏆 My Stats On Competitive Programming
+
 | OJ | Username | Solve Count |
 | -- | -------- | ----------- |
 | Codeforces | [Peal_Mazumder](https://codeforces.com/profile/Peal_Mazumder) | 661 |
@@ -47,7 +48,6 @@
 | AtCoder | [Peal](https://atcoder.jp/users/Peal) | 52 |
 | SPOJ | [peal_mazumder](https://www.spoj.com/users/peal_mazumder/) | 38 | 
 | Total | | 1138 |
-
 <br>
 
 <div align="center">
